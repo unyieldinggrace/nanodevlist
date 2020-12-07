@@ -1,0 +1,16 @@
+{
+  "name": "Srayman",
+  "github": "",
+  "twitter": "nano_faucet",
+  "nano_account": "nano_1gynz9cb5o41j7heom9fbi9rsm5bnb7oa541z34kxhbynu1md15yf39rmidb",
+  "sponsor_link": "",
+  "avatar": "https://avatars3.githubusercontent.com/u/42743016?s=140&v=4",
+  "description": "Heavily involved in beta testing, stress testing and generally finding bugs and performance improvements in the Nano node implementation.\nDeveloper for [Nano-Faucet](https://nano-faucet.org), the longest running community developed faucet to help new people experience Nano and try it out.",
+  "tags": [
+    "Python",
+    "c++",
+    "oracle",
+    "shell",
+    "Education"
+  ]
+}
